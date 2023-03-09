@@ -1,2 +1,2 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# HTML and the Web
+## Link zur 2. Session
